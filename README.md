@@ -1,4 +1,4 @@
-# Cost_Effective_Smart_Home_Automation_System_Based_On_Mobile_App
+# Cost_Effective_Smart_Home_Automation_System_Using_Mobile_App
 
 
 ## Summary: 
