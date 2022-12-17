@@ -27,4 +27,6 @@ Connection of the Bluetooth HC-05 to the Arduino:
 
 4) Then connected the TXD pin on the Arduino to the RXD pin on the HC-05. This connection formed the second half of the two-way communication and is how the Arduino sends information to the HC-05.
 
+Then connected the HC-05 module to the Arduino which can power the Arduino with a 12V DC supply or USB cable. If the red and blue LEDs on the HC-05 are blinking, then you have successfully connected the Bluetooth module with the Arduino. We don’t use the STATE and EN pins on the HC-05 module, since they are not required for this setup.
+
 
