@@ -42,3 +42,12 @@ After that we have connected the relay module in series with our electrical load
 
 ## Uploading of Code:
 After successfully wired things up, the next step was to upload the code to the Arduino. So the Bulb_on_off.ino file was run into Arduino IDE.
+
+## Controlling Lights with Mobile App:
+Had to download the Arduino Bluetooth Controller app on our Android device. 
+1) Opened the app on our smartphone. It would ask for Bluetooth permissions. Have to Click ‘Allow’.
+2) Next, it would list all the available devices. We have to select HC-05.
+3) Once we select the device, we would be connected to the HC-05 transceiver. The app then prompt us to enter the mode that we wish to use. We would Select ”Switch” mode.
+4) We should be redirected to the following screen. Need to Click on the “Settings” icon in the top-right corner of the screen.
+5) It would ask us to set values for ON and OFF. Entering ‘1’ in the ON textbox and ‘0’ in the OFF textbox. Need to Click Submit.
+Using the above setup, we can use a smart device that can controll loads on our home.
