@@ -39,4 +39,5 @@ Connection of the relay module to the Arduino:
 
 3) Finally, connected the AC load to the relay module. 
 
-
+Uploading of Code:
+After successfully wired things up, the next step was to upload the code to the Arduino. So the Bulb_on_off.ino file was run into Arduino IDE.
