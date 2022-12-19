@@ -30,7 +30,7 @@ This project presents a cost effective smart home automation system. The earlier
 
 Then connected the HC-05 module to the Arduino which can power the Arduino with a 12V DC supply or USB cable. If the red and blue LEDs on the HC-05 are blinking, then you have successfully connected the Bluetooth module with the Arduino. We don’t use the STATE and EN pins on the HC-05 module, since they are not required for this setup.
 
-## Setting up the Relay Circuit:
+## Relay Circuit Setup:
 After that we have connected the relay module in series with our electrical load, so that we can break the connection when we want to turn the device off and complete the circuit when we want to turn it on. We have used a relay module which includes the relay drive circuit allowing it to connect directly to a microcontroller GPIO pin. The relay module we’ve used can handle up to 10 amps of current at up to 240V AC.
 
 ## Connection of the relay module to the Arduino: 
@@ -40,10 +40,10 @@ After that we have connected the relay module in series with our electrical load
 
 3) Finally, connected the AC load to the relay module. 
 
-## Uploading of Code:
+## Code Upload:
 After successfully wired things up, the next step was to upload the code to the Arduino. So the Bulb_on_off.ino file was run into Arduino IDE.
 
-## Controlling Lights with Mobile App:
+## Lights Controll with Mobile App:
 Had to download the Arduino Bluetooth Controller app on our Android device. 
 1) Opened the app on our smartphone. It would ask for Bluetooth permissions. Have to Click ‘Allow’.
 2) Next, it would list all the available devices. We have to select HC-05.
