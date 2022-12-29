@@ -45,3 +45,7 @@ Had to download the Arduino Bluetooth Controller app on our Android device.
 5) It would ask us to set values for ON and OFF. Entering ‘1’ in the ON textbox and ‘0’ in the OFF textbox. Need to Click Submit.
 
 Using the above setup, we can use a smart device that can controll loads on our home.
+
+### Author's Info
+- **LinkedIn: [ovisarkar1610052](https://www.linkedin.com/in/ovisarkar1610052/)**
+- **ResearchGate: [Ovi Sarkar](https://www.researchgate.net/profile/Ovi-Sarkar)**
