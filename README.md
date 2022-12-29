@@ -34,7 +34,7 @@ After that we have connected the relay module in series with our electrical load
 3) Finally, connected the AC load to the relay module. 
 
 ### Code Upload:
-After successfully wired things up, the next step was to upload the code to the Arduino. So the Bulb_on_off.ino file was run into Arduino IDE.
+After successfully wired things up, the next step was to upload the code to the Arduino. So the **[Bulb_on_off.ino](https://github.com/OviSarkar62/Cost_Effective_Smart_Home_Automation_System_Using_Mobile_App/blob/a7efcba99762f014b0f8afa8ad3da215013fbb2b/Bulb_on_off.ino)** file was run into Arduino IDE.
 
 ### Lights Controll with Mobile App:
 Had to download the Arduino Bluetooth Controller app on our Android device. 
