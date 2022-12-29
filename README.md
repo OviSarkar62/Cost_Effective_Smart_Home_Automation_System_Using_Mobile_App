@@ -26,7 +26,7 @@ Then connected the HC-05 module to the Arduino which can power the Arduino with 
 ### Relay Circuit Setup:
 After that we have connected the relay module in series with our electrical load, so that we can break the connection when we want to turn the device off and complete the circuit when we want to turn it on. We have used a relay module which includes the relay drive circuit allowing it to connect directly to a microcontroller GPIO pin. The relay module we’ve used can handle up to 10 amps of current at up to 240V AC.
 
-### Connection of the relay module to the Arduino: 
+### Connection of the Relay Module to the Arduino: 
 1) First, connected the 5V and GND pins of the relay module to the bus terminals.
 
 2) Next, connected the IN1 pin on the relay module with PIN 4 on the Arduino.
