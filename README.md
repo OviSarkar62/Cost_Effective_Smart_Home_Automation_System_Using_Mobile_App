@@ -50,3 +50,4 @@ Using the above setup, we can use a smart device that can controll loads on our 
 ### Author's Info
 - **LinkedIn: [ovisarkar1610052](https://www.linkedin.com/in/ovisarkar1610052/)**
 - **ResearchGate: [Ovi Sarkar](https://www.researchgate.net/profile/Ovi-Sarkar)**
+---
