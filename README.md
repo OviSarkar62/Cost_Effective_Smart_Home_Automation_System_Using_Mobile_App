@@ -4,12 +4,12 @@ This project presents a cost effective smart home automation system. The earlier
 
 ### Apparatus: 
 
-+ Arduino UNO
-+ Relay module
-+ HC 05 Wireless Bluetooth Module
-+ Bulb
-+ Resistors(2.2k ohm, 1k ohm)
-+ Jumper wires
++ **Arduino UNO**
++ **Relay module**
++ **HC 05 Wireless Bluetooth Module**
++ **Bulb**
++ **Resistors(2.2k ohm, 1k ohm)**
++ **Jumper wires**
 
 ### Connection of the Bluetooth HC-05 to the Arduino:
 
