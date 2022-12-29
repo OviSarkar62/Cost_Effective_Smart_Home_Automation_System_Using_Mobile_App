@@ -36,7 +36,7 @@ After that we have connected the relay module in series with our electrical load
 ### Code Upload:
 After successfully wired things up, the next step was to upload the code to the Arduino. So the **[Bulb_on_off.ino](https://github.com/OviSarkar62/Cost_Effective_Smart_Home_Automation_System_Using_Mobile_App/blob/a7efcba99762f014b0f8afa8ad3da215013fbb2b/Bulb_on_off.ino)** file was run into Arduino IDE.
 
-### Lights Controll with Mobile App:
+### Lights Control with Mobile App:
 Had to download the Arduino Bluetooth Controller app on our Android device. 
 1) Opened the app on our smartphone. It would ask for Bluetooth permissions. Have to Click ‘Allow’.
 2) Next, it would list all the available devices. We have to select HC-05.
